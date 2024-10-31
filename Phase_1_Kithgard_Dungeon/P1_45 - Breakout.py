@@ -1,0 +1,6 @@
+hero.moveRight()
+hero.attack("Weak Door")
+hero.moveRight()
+hero.moveDown()
+hero.attack("Door")
+hero.attack("Door")
